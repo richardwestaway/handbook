@@ -23,7 +23,7 @@ For **undergraduate and Masters' students**, your ethics applications are review
 We expect that student projects in our lab should be done under the checklist application route. 
 
 ### Standard Operating Procedure
-As mentioned above, the lab has a “standard operating procedure” (SOP) for ethics related to our general line of work. You may view it [here](https://uob.sharepoint.com/:f:/r/teams/grp-lewandowsky-lab/Shared Documents/Ethics_Example/SOP?csf=1&web=1&e=VkYcM0), where you will find a pdf containing the current version of all SOP documents, as well as a folder that contains Word versions of the individual appendices.
+As mentioned above, the lab has a “standard operating procedure” (SOP) for ethics related to our general line of work. You may view it [here](<https://uob.sharepoint.com/:f:/r/teams/grp-lewandowsky-lab/Shared Documents/Ethics_Example/SOP?csf=1&web=1&e=VkYcM0>), where you will find a pdf containing the current version of all SOP documents, as well as a folder that contains Word versions of the individual appendices.
  
 **What does it mean for you?** 
 In short, it means that if you want to conduct research using any of the items listed in [Appendix 2](https://docs.google.com/spreadsheets/d/1f5gzEw6kRsyLwiC8kVjhsEP2DgRxL1Dvj900p494tKs/edit?usp=sharing) of the SOP, you are eligible to do so as a checklist application and avoid a full ethics review.
